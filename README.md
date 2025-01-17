@@ -7,13 +7,13 @@
 
 - 💬 Ask me about **Python, Java, C#, Angular...**
 
-- 📫 How to reach me **joseignaciogb2001@gmail.com**
+- 📫 How to reach me: **joseignaciogb2001@gmail.com**
 
-- ⚡ Fun fact **I love guitar playing, rock and metal music!**
+- ⚡ Fun fact: **I love guitar playing, rock and metal music!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jos%c3%a9-ignacio-garc%c3%ada-boh%c3%b3rquez-266a72298/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jos%c3%a9-ignacio-garc%c3%ada-boh%c3%b3rquez-266a72298/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jos%c3%a9-ignacio-garc%c3%ada-boh%c3%b3rquez-266a72298/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jos%c3%a9-ignacio-garc%c3%ada-boh%c3%b3rquez-266a72298/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

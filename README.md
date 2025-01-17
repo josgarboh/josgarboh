@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm José Ignacio</h1>
 <h3 align="center">A Software Engineer from Sevilla</h3>
 
-- 🔭 I’m currently working on **in Ayesa AT**
+- 🔭 I’m currently working in **Ayesa AT**
 
 - 🌱 I’m currently learning **Angular and .NET Framework!**
 
